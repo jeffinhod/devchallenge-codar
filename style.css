@@ -243,6 +243,7 @@ footer h3{
 
   .lista2{
     order: 2;
+    padding-left: revert;
     margin: 5rem auto 0 auto;
     
   }
